@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adityabhattad2021
 - 👀 I’m interested in computer programming
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning Blockchain
 - 💞️ I’m looking to collaborate on open source projects 
 
 
