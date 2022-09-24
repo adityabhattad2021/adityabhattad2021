@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @adityabhattad2021
+<h1 align="center">Hi 👋, I'm Aditya Bhattad</h1>
+
+
 - 🌱 I’m currently learning to make awesome Dapps
-- 💞️ I’m looking to collaborate on open source projects 
+
+- 💬 Ask me about react and web3
+
+- ❤️ I love Open Source
 
 
-<!---
-adityabhattad2021/adityabhattad2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityabhattad2021&show_icons=true&locale=en&layout=compact" alt="adityabhattad2021" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityabhattad2021&show_icons=true&locale=en" alt="adityabhattad2021" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityabhattad2021&" alt="adityabhattad2021" /></p>
