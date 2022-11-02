@@ -19,7 +19,7 @@
   <summary><h3>Languages</h3></summary>
             <p align="center">
                 <a href="https://github.com/adityabhattad2021/">
-                  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityabhattad2021&langs_count=6&theme=vue&layout=compact&hide_border=true"
+                  <img width="95%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityabhattad2021&langs_count=6&theme=vue&layout=compact&hide_border=true"
                   alt="adityabhattad2021 :: overall Top Languages " /></a>
               </p>
         
@@ -28,8 +28,8 @@
   <summary><h3>stasistic</h3></summary>
         <p align="center">
           <a href="https://github.com/adityabhattad2021/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=adityabhattad2021&show_icons=true&theme=tokyonight&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityabhattad2021&theme=tokyonight&hide_border=true" />
+          <img width="95%" src="https://github-readme-stats.vercel.app/api?username=adityabhattad2021&show_icons=true&theme=tokyonight&hide_border=true" />
+          <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityabhattad2021&theme=tokyonight&hide_border=true" />
           </a>
        </p>
      <br>
