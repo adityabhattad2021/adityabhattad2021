@@ -1,5 +1,5 @@
 # 💫 About Me:
-For quite some time, I have been exploring this awesome development space 🌐. From cloud computing to blockchain and now AI, the opportunities it creates for improving lives inspire me to write code 🚀.<br>I am a pre-final year computer science undergraduate 🎓. Up to now, I have explored many different tech stacks like React.js, Next.js, Solidity, TypeScript, C, and Java, among others.<br><br>From my 2 years of development experience, the most important lesson I've learned is the art of building and using tech stacks as tools, without focusing too much on the tech stack itself. That's how it is... 💡
+For quite some time, I have been exploring this awesome development space 🌐. From cloud computing to blockchain and now AI, the opportunities it creates for improving lives inspire me to write code 🚀.<br>I am a final year computer science undergraduate 🎓. Up to now, I have explored many different tech stacks like React.js, Next.js, Solidity, TypeScript, C, and Java, among others.<br><br>From my 2 years of development experience, the most important lesson I've learned is the art of building and using tech stacks as tools, without focusing too much on the tech stack itself. That's how it works for me... 💡
 
 
 # 💻 Tech Stack:
