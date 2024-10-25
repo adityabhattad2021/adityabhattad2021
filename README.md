@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I am a final year undergraduate pursuing a B.Tech in Computer Science and Engineering. I have gained experience in software development by working with cross-functional teams in different global hackathons.
 
-I’m currently looking for full-stack development opportunities. . My primary tech stack includes, but not limited to TypeScript, Node.js, React.js, and Next.js.
+I’m currently looking for full-stack development opportunities. My primary tech stack includes, but not limited to TypeScript, Node.js, React.js, and Next.js.
 
 
 # 💻 Tech Stack:
